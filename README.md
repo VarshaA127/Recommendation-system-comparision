@@ -23,7 +23,7 @@ This data set consists of:
 	* u.genre
 
 
-# Experinment Design Comprises of –
+# Analysis Design Comprises of –
   •	Importing Data
   •	Creating Tagwords
   •	Scrapping related Tweets
